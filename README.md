@@ -1,5 +1,4 @@
-# Deriving-Knowledge-from-Attribute-Labels-for-Data-Quality-Assessment
-Deriving Knowledge from Attribute Labels for Semantic Type Detection and Data Quality Assessment
+# Deriving Knowledge from Attribute Labels for Semantic Type Detection and Data Quality Assessment
 
 List of Produced Files for Dissemination:
 
