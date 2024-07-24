@@ -1,4 +1,4 @@
-# Deriving Knowledge from Attribute Labels for Semantic Type Detection and Data Quality Assessment
+# Attribute-Based Semantic Type Detection and Data Quality Assessment
 
 List of Produced Files for Dissemination:
 
