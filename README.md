@@ -4,8 +4,6 @@ List of Produced Files for Dissemination:
 
 The presentation exhibited for Milestone 2 at Curtin University on 17/04/2024: Deriving Knowledge from Attribute Labels for Data Quality Assessment.pptx
 
-The final document for Milestone 2, that will be sent to a Database Conference: Deriving Knowledge from Attribute Labels for Data Quality Assessment.pdf
-
 The Appendices associated with this paper: Appendices of Deriving Knowledge from Attribute Labels for Data Quality Assessment.pdf
 
 •	The updated codes of the two main programs, 'Attribute-BasedSemanticType Detection.ipynb' and 'Attribute-BasedDataQualityAssessment.ipynb'; 
