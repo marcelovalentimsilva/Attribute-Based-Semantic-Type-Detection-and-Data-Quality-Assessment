@@ -8,7 +8,7 @@ The Appendices associated with this paper: Attribute-Based Semantic Type Detecti
 
 •	The updated codes of the two main programs, 'Attribute-BasedSemanticType Detection.ipynb' and 'Attribute-BasedDataQualityAssessment.ipynb'; 
 
-•	The updated dictionaries that form the base of the Semantic Type Detection, 'formats_dictionary.txt' and 'abbreviations_dictionary.txt'; 
+•	The updated dictionaries that form the base of the Semantic Type Detection, 'formats_dictionary.txt' and 'abbreviations_dictionary.txt';  The 2 full dictionaries of this step of the research are available if you are willing to collaborate with the research. Please contact me at marcelovalentimsilva@gmail.com or marcelo.valentim@bcb.gov.br.
 
 •	The source files for the two Semantic Type Detection analysis: 'TenDatasets.xlsx' and 'FortyDatasets.xlsx', which contain the data for the two sets of datasets, and the 'AllColumnsFromTenDatasets.xlsx' and 'AllColumnsFromFortyDatasets.xlsx' which contain all the required data for the Data Quality Assessment of the fifty datasets with their column names/attribute labels as well as their descriptions. 'Fiftydatasets.xlsx' has the two spreadsheets combined.
 
