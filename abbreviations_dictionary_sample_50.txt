@@ -1,0 +1,50 @@
+acc: accounting
+accg: accounting
+acous: acoustics
+acust: acoustics
+add: addiction
+addict: addiction
+addr: address
+addre: address
+aero: aerospace
+agg: aggregate
+agri: agriculture
+alg: algebra
+anal: analysis
+anlys: analysis
+anat: anatomy
+anim: animation
+anthro: anthropology
+apt: apartment
+appt: appointment
+arch: architecture
+athlet: athletics
+attach: attachment
+auth: authentication
+auto: automotive
+bank: banking
+biochem: biochemistry
+biog: biography
+bio: biology
+biomed: biomedical
+biophys: biophysics
+biotech: biotechnology
+bot: botany
+bus: business
+busn: business
+calc: calculus
+camp: camping
+cardio: cardiology
+carto: cartography
+cat: category
+categ: category
+ceo: chief executive officer
+cfo: chief financial officer
+coo: chief organizational officer
+cto: chief technology officer
+chem: chemistry
+col: colour
+color: colour
+comm: communication
+compsci: computer science
+cs: computer science
